@@ -1,4 +1,4 @@
-if (document.body.clientWidth > 992) {
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>if (document.body.clientWidth > 992) {
     function getBasicInfo() {
         /* 窗口高度 */
         var ViewH = $(window).height();
